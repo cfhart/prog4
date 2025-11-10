@@ -1,17 +1,1 @@
-[
-  {
-    "material": {
-      "ambient": [0.1, 0.1, 0.1],
-      "diffuse": [0.0, 0.6, 0.0],
-      "specular": [0.3, 0.3, 0.3],
-      "n": 15,
-      "alpha": 1.0,
-      "texture": "https://raw.githubusercontent.com/cfhart/prog4/main/water.png"
-    },
-    "vertices": [[-20, -0.6, 0.35],[20, -0.6, 0.35],[20,0,0.35],[-20,0,0.35]],
-    "normals": [[0, 0, -1],[0, 0, -1],[0, 0, -1],[0, 0, -1]],
-    "uvs": [[0,0], [1,0], [1,1], [0,1]],
-    "triangles": [[0,1,2],[2,3,0]
-    ]
-  }
-]
+[ { "material": { "ambient": [0.1,0.1,0.1], "diffuse": [0.0,0.6,0.0], "specular": [0.3,0.3,0.3], "n": 15, "alpha": 1.0, "texture": "https://raw.githubusercontent.com/cfhart/prog4/main/water.png" }, "vertices": [ [-2.0, 0.0, 0.45], [2.0, 0.0, 0.45], [2.0, 1.0, 0.45], [-2.0, 1.0, 0.45] ], "normals": [ [0,0,-1], [0,0,-1], [0,0,-1], [0,0,-1] ], "uvs": [ [0,0], [1,0], [1,1], [0,1] ], "triangles": [ [0,1,2], [0,2,3] ] } ]
