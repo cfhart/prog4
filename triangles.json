@@ -1,6 +1,6 @@
 [
   {
-    "material": {"ambient":[0.1,0.1,0.1],"diffuse":[0.0,0.6,0.0],"specular":[0.3,0.3,0.3],"n":15,"alpha":1.0,"texture":"water.png"},
+    "material": {"ambient":[0.1,0.1,0.1],"diffuse":[0.0,0.6,0.0],"specular":[0.3,0.3,0.3],"n":15,"alpha":1.0,"texture":"https://raw.githubusercontent.com/cfhart/prog4/main/water.png"},
     "vertices": [[0.0,0.2,0.45],[1.0,0.2,0.45],[1.0,0.8,0.45],[0.0,0.8,0.45]],
     "normals": [[0,0,-1],[0,0,-1],[0,0,-1],[0,0,-1]],
     "uvs": [[0,0],[0.5,1],[1,0],[0,1]],
